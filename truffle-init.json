@@ -1,0 +1,12 @@
+{
+  "docs_url": "TBD",
+  "ignore": [
+    "README.md",
+    ".gitignore"
+  ],
+  "commands": {
+    "Compile": "aion-cli compile",
+    "Migrate": "aion-cli migrate",
+    "Test": "aion-cli test"
+  }
+}
