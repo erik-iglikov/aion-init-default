@@ -1,7 +1,6 @@
 var HelloWorld = artifacts.require("./HelloWorld.sol");
 
 contract('HelloWorld', function(accounts) {
-	console.log("accounts:", accounts);
 	it("should init as 71. (also testing getter)", function(){
 		return HelloWorld.deployed().then(function(instance){
 			return instance.get.call();
