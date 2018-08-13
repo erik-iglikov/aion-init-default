@@ -5,8 +5,8 @@
     ".gitignore"
   ],
   "commands": {
-    "Compile": "aion-cli compile",
-    "Migrate": "aion-cli migrate",
-    "Test": "aion-cli test"
+    "Compile": "aion compile",
+    "Migrate": "aion migrate",
+    "Test": "aion test"
   }
 }
