@@ -1,7 +1,7 @@
-# truffle-init-default
+# aion-init-default
 
-Default project for Truffle: example contracts, migrations and tests
+Default project for Aion Solidity Development Tool: example contracts, migrations and tests
 
 ## Usage
 
-See the [Truffle documentation](http://truffleframework.com/docs/) for more info.
+TBD
