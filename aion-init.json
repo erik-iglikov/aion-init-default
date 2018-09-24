@@ -5,8 +5,8 @@
     ".gitignore"
   ],
   "commands": {
-    "Compile": "aion compile",
-    "Migrate": "aion migrate",
-    "Test": "aion test"
+    "Compile": "puggle compile",
+    "Migrate": "puggle migrate",
+    "Test": "puggle test"
   }
 }
